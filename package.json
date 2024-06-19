@@ -1,7 +1,7 @@
 {
   "name": "giveswap-frontend",
   "description": "Giveswap Frontend",
-  "homepage": ".",
+  "homepage": "https://github.com/BCharity-Net/goodswap.git",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "5.0.1",
